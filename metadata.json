@@ -1,0 +1,8 @@
+{
+  "name": "趣味儿童识字",
+  "description": "专为儿童设计的互动式趣味识字乐园。提供田字格笔画临摹、精美卡通卡片、趣味大闯关游戏，以及AI小喵老师专属识字绘本故事生成，让孩子爱上识字！",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
